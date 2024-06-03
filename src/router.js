@@ -14,7 +14,7 @@ function Routes() {
                     name="home"
                     component={Home}
                     options={{
-                        title: "ALUGUE",
+                        title: "ALUGUEL",
                         headerTitleStyle: {
                             fontFamily: "Montserrat_700Bold",
                         },
